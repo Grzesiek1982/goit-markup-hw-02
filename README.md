@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Zadanie domowe 01
+# goit-markup-hw-02
+Zadanie domowe 02
